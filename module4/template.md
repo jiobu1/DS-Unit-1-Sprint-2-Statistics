@@ -10,13 +10,13 @@ working on for your project week.
 
 ## You
 
-What do you care about?
+What do you care about? Safety. 
 
 
-What do you know about?
+What do you know about? My neighborhood
 
 
-What decisions do you face?
+What decisions do you face?  Ways to keep my family safe in light of recent breakins. 
 
 
 ## Seven templates
@@ -25,22 +25,22 @@ Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explai
 
 Can you apply the templates to your topics? 
 
-1. Geographic Variation
+1. Geographic Variation - How does geography affect crime?
 
 
-2. Trend related to the news
+2. Trend related to the news = Exploring crime in my neighborhood. Has it gone up? 
 
 
 3. Who does that?
 
 
-4. Answering a question people care about
+4. Answering a question people care about - Has certain neighborhoods become more prone to crime? 
 
 
-5. Valuable to businesses
+5. Valuable to businesses - Maybe to the city? See which neighborhoods need more of a police presence?
 
 
-6. What's the most popular?
+6. What's the most popular? Crime, safety. 
 
 
 7. Cost/Money rankings
@@ -48,7 +48,7 @@ Can you apply the templates to your topics?
 
 ## Misconceptions
 
-What misconceptions do people have about your topic?
+What misconceptions do people have about your topic?  Does increase in news reports of crime actually indicate increase in crime? 
 
 
 ## Examples
@@ -67,7 +67,7 @@ Could you do a new topic, with the same "style"?
 
 ## Data
 
-Where could you search for data about your topic?
+Where could you search for data about your topic? Data.gov 
 
 ---
 
@@ -75,13 +75,13 @@ Where could you search for data about your topic?
 
 ## You
 
-What do you care about?
+What do you care about? Education and technology
 
 
-What do you know about?
+What do you know about? Education
 
 
-What decisions do you face?
+What decisions do you face? Education decisions as an educator and homeschooling mom.
 
 
 ## Seven templates
@@ -90,19 +90,19 @@ Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explai
 
 Can you apply the templates to your topics? 
 
-1. Geographic Variation
+1. Geographic Variation - Where has homeschooling become more prevalent?
 
 
-2. Trend related to the news
+2. Trend related to the news - Increase in homeschooling
 
 
-3. Who does that?
+3. Who does that? Types of families who gravitate towards homeschooling
 
 
-4. Answering a question people care about
+4. Answering a question people care about - Why homeschool  -pros/coms
 
 
-5. Valuable to businesses
+5. Valuable to businesses - educational resources for homeschooling parents
 
 
 6. What's the most popular?
@@ -113,7 +113,7 @@ Can you apply the templates to your topics?
 
 ## Misconceptions
 
-What misconceptions do people have about your topic?
+What misconceptions do people have about your topic? What types of families homeschool? Repurcussions/ Benefits? 
 
 
 ## Examples
@@ -132,4 +132,4 @@ Could you do a new topic, with the same "style"?
 
 ## Data
 
-Where could you search for data about your topic?
+Where could you search for data about your topic? Unsure, maybe schools.gov site?
